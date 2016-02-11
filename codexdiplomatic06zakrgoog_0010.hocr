@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexdiplomatic06zakrgoog_0010.png"; bbox 0 0 4448 6210; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 59 1648 1275 2108">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 59 1648 1275 2108">
+     <span class='ocr_line' id='line_1_1' title="bbox 59 1648 1275 1875; baseline -0.001 -64"><span class='ocrx_word' id='word_1_1' title='bbox 59 1870 62 1875; x_wconf 8' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 121 1648 469 1811; x_wconf 73' lang='lat' dir='ltr'>KonEKs</span> <span class='ocrx_word' id='word_1_3' title='bbox 516 1650 1275 1815; x_wconf 74' lang='lat' dir='ltr'>DYPLOMATYCZNY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 416 1966 1147 2108; baseline 0.004 -3"><span class='ocrx_word' id='word_1_4' title='bbox 416 1978 990 2108; x_wconf 90' lang='lat' dir='ltr'>WIELKOPOLSKI.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1141 1966 1147 1973; x_wconf 61' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 608 2300 814 2323">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 608 2300 814 2323">
+     <span class='ocr_line' id='line_1_3' title="bbox 608 2300 814 2323; baseline -0.01 0"><span class='ocrx_word' id='word_1_6' title='bbox 608 2300 814 2323; x_wconf 61' lang='lat' dir='ltr'>Ama</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 214 2464 1511 3043">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 214 2464 1511 3043">
+     <span class='ocr_line' id='line_1_4' title="bbox 214 2464 1511 2781; baseline 0.003 -62"><span class='ocrx_word' id='word_1_7' title='bbox 214 2558 508 2747; x_wconf 67' lang='lat' dir='ltr'>coossx</span> <span class='ocrx_word' id='word_1_8' title='bbox 557 2464 1304 2781; x_wconf 51' lang='lat' dir='ltr'>olpLomATlcus&#39;</span> <span class='ocrx_word' id='word_1_9' title='bbox 1507 2624 1511 2631; x_wconf 94' lang='lat'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 222 2874 1315 3043; baseline 0.014 -52"><span class='ocrx_word' id='word_1_10' title='bbox 222 2983 228 2991; x_wconf 86' lang='grc'>,</span> <span class='ocrx_word' id='word_1_11' title='bbox 368 2874 655 3003; x_wconf 68' lang='lat' dir='ltr'>mmoffls</span> <span class='ocrx_word' id='word_1_12' title='bbox 692 2877 1052 3007; x_wconf 75' lang='lat' dir='ltr'>POLON1AE.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1230 3022 1315 3043; x_wconf 15' lang='lat' dir='ltr'><em>st</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2228 6210">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2228 6210">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2228 6210; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2228 6210; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
